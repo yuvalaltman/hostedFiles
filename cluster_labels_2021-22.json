@@ -1,0 +1,19 @@
+{
+    "DF":[
+        "Sweepers",
+        "Attacking Defenders",
+        "Pressers",
+        "Carriers & Builders"
+    ],
+    "FW":[
+        "Finishers",
+        "Pressers",
+        "Assisting Forwards"
+    ],
+    "MF":[
+        "Progressers",
+        "Second Strikers",
+        "Creators",
+        "Tacklers"
+    ]
+}
